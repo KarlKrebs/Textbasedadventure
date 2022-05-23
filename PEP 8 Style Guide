@@ -1,0 +1,3 @@
+print ("Please famialrize yoruself with PEP 8 Style guide")
+import webbrowser
+webbrowser.open('https://inventwithpython.com/')
